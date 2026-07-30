@@ -31,7 +31,6 @@ name        : Arya Bintang Kusuma Wijaya (Star)
 role        : Informatics Engineering Student @ Universitas Muslim Indonesia
 job         : Laboratory Assistant
 status      : Building "Asistio" — Lab Practicum Management System (Thesis)
-location    : Makassar, Indonesia
 shell       : bash
 current_os  : Focused, Caffeinated, Debugging
 ```
@@ -60,10 +59,10 @@ current_os  : Focused, Caffeinated, Debugging
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Utada47&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" width="49%"/>
+<img src="./profile/stats.svg" width="49%"/>
 <img src="https://streak-stats.demolab.com/?user=Utada47&theme=dark&hide_border=true&background=0D1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utada47&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff41&text_color=c9d1d9" width="50%"/>
+<img src="./profile/top-langs.svg" width="50%"/>
 
 </div>
 
