@@ -1,9 +1,8 @@
-name: Generate Snake Animation
-
+name: Generate Snake + Stats
 on:
   schedule:
-    - cron: "0 0 * * *" # jalan otomatis tiap hari jam 00:00 UTC
-  workflow_dispatch: {} # bisa dijalankan manual dari tab Actions
+    - cron: "0 0 * * *"
+  workflow_dispatch: {}
   push:
     branches:
       - main
@@ -13,6 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
       - uses: actions/checkout@v4
 
@@ -30,28 +30,24 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate stats card (statis, tanpa rate limit)
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: stats
-          options: username=Utada47&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9
-          path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate stats & top-langs via API
+        run: |
+          mkdir -p profile
 
-      - name: Generate top languages card
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: top-langs
-          options: username=Utada47&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff41&text_color=c9d1d9
-          path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          curl -s "https://github-readme-stats.vercel.app/api?username=Utada47&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" \
+            -o profile/stats.svg
 
-      - name: Commit stats & top-langs ke branch main
+          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=Utada47&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff41&text_color=c9d1d9&layout=compact" \
+            -o profile/top-langs.svg
+        env:
+          GH_TOKEN: ${{ secrets.STATS_TOKEN }}   # ← nama secret-mu
+
+      - name: Commit stats ke main
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
-          git add profile/*.svg
-          git commit -m "Update stats cards" || exit 0
+          git add profile/stats.svg profile/top-langs.svg
+          git commit -m "Update stats cards [skip ci]" || exit 0
           git push
