@@ -21,12 +21,12 @@
 
 ```
 ┌────────────────────────────────────────────────────────┐
-│  root@utada47:~$ ./init_profile.sh                      │
-│  [OK] Decrypting identity.......... done                │
-│  [OK] Mounting skillset............ done                │
-│  [OK] Loading modules.............. done                │
-│  [OK] Bypassing firewall........... done                │
-│  [ACCESS GRANTED]                                        │
+│  root@utada47:~$ ./init_profile.sh                     │
+│  [OK] Decrypting identity.......... done               │
+│  [OK] Mounting skillset............ done               │
+│  [OK] Loading modules.............. done               │
+│  [OK] Bypassing firewall........... done               │
+│  [ACCESS GRANTED]                                      │
 └────────────────────────────────────────────────────────┘
 ```
 
@@ -100,9 +100,9 @@ access_level: root
 
 ```
 ┌─────────────────────────────────────────────┐
-│  root@utada47:~$ nmap -sV target: flags       │
-│  [+] Capturing flags since day one           │
-│  [+] Playground: picoCTF / CyLab Academy     │
+│  root@utada47:~$ nmap -sV target: flags     │
+│  [+] Capturing flags since day one          │
+│  [+] Playground: picoCTF / CyLab Academy    │
 └─────────────────────────────────────────────┘
 ```
 
