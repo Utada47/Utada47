@@ -7,35 +7,61 @@
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────┐
-│  root@utada47:~$ ./init_profile.sh           │
-│  [OK] Loading modules...                     │
-│  [OK] Access granted.                        │
-└─────────────────────────────────────────────┘
+ ██████╗ ██████╗  ██████╗ ████████╗
+██╔══██╗██╔═══██╗██╔═══██╗╚══██╔══╝
+██████╔╝██║   ██║██║   ██║   ██║
+██╔══██╗██║   ██║██║   ██║   ██║
+██║  ██║╚██████╔╝╚██████╔╝   ██║
+╚═╝  ╚═╝ ╚═════╝  ╚═════╝    ╚═╝
 ```
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&background=0D111700&center=true&vCenter=true&width=600&lines=Informatics+Engineering+Student;Laravel+%2B+MySQL+Developer;Network+Engineer+in+Training;Building+Asistio+%E2%80%94+Lab+Management+System;print(%22Hello%2C+World!%22))](https://git.io/typing-svg)
+```
+┌────────────────────────────────────────────────────────┐
+│  root@utada47:~$ ./init_profile.sh                      │
+│  [OK] Decrypting identity.......... done                │
+│  [OK] Mounting skillset............ done                │
+│  [OK] Loading modules.............. done                │
+│  [OK] Bypassing firewall........... done                │
+│  [ACCESS GRANTED]                                        │
+└────────────────────────────────────────────────────────┘
+```
 
 </div>
 
----
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&background=0D111700&center=true&vCenter=true&width=650&lines=Informatics+Engineering+Student;Laravel+%2B+MySQL+Developer;Network+Engineer+in+Training;Building+Asistio+%E2%80%94+Lab+Management+System;sudo+access+granted+%3A%29;print(%22Hello%2C+World!%22))](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+![](https://capsule-render.vercel.app/api?type=rect&color=0:00ff41,100:0d1117&height=3&width=1000)
+
+</div>
 
 ### `> system_info.log`
 
 ```yaml
 name        : Arya Bintang Kusuma Wijaya (Star)
+alias       : Utada47
 role        : Informatics Engineering Student @ Universitas Muslim Indonesia
 job         : Laboratory Assistant
 status      : Building "Asistio" — Lab Practicum Management System (Thesis)
-shell       : bash
-current_os  : Focused, Caffeinated, Debugging
+shell       : /bin/bash
+uptime      : caffeinated, debugging, compiling the future
+access_level: root
 ```
 
----
+<div align="center">
+
+![](https://capsule-render.vercel.app/api?type=rect&color=0:00ff41,100:0d1117&height=3&width=1000)
+
+</div>
 
 ### `> tech_stack --list`
 
@@ -53,7 +79,11 @@ current_os  : Focused, Caffeinated, Debugging
 
 </div>
 
----
+<div align="center">
+
+![](https://capsule-render.vercel.app/api?type=rect&color=0:00ff41,100:0d1117&height=3&width=1000)
+
+</div>
 
 ### `> stats --realtime`
 
@@ -66,7 +96,11 @@ current_os  : Focused, Caffeinated, Debugging
 
 </div>
 
----
+<div align="center">
+
+![](https://capsule-render.vercel.app/api?type=rect&color=0:00ff41,100:0d1117&height=3&width=1000)
+
+</div>
 
 ### `> contribution_grid --animate`
 
@@ -80,9 +114,11 @@ current_os  : Focused, Caffeinated, Debugging
 
 </div>
 
-> ⚙️ Animasi ular ini butuh sekali setup lewat GitHub Actions. Lihat file `snake.yml` yang saya sertakan — tinggal taruh di `.github/workflows/` di repo `Utada47/Utada47`, lalu push. Animasi otomatis update tiap hari.
+<div align="center">
 
----
+![](https://capsule-render.vercel.app/api?type=rect&color=0:00ff41,100:0d1117&height=3&width=1000)
+
+</div>
 
 ### `> connect --socials`
 
@@ -90,6 +126,7 @@ current_os  : Focused, Caffeinated, Debugging
 
 ![GitHub followers](https://img.shields.io/github/followers/Utada47?label=Follow&style=for-the-badge&color=00ff41&labelColor=000000)
 ![Profile Views](https://komarev.com/ghpvc/?username=Utada47&label=Profile%20Views&color=00ff41&style=for-the-badge)
+![Status](https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=for-the-badge&labelColor=000000)
 
 </div>
 
@@ -98,7 +135,8 @@ current_os  : Focused, Caffeinated, Debugging
 ```
 root@utada47:~$ echo "Thanks for visiting. Keep building." 
 Thanks for visiting. Keep building.
-root@utada47:~$ _
+root@utada47:~$ exit
+process terminated. connection closed.
 ```
 
 </div>
