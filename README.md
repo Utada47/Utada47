@@ -147,6 +147,16 @@ access_level: root
 
 </div>
 
+<div align="center">
+    
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Utada47/Utada47/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Utada47/Utada47/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Utada47/Utada47/output/github-contribution-grid-snake.svg" />
+</picture>
+    
+</div>
+
 ### `[ 06 ] connect --socials`
 
 <div align="center">
