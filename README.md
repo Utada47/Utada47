@@ -59,7 +59,10 @@ current_os  : Focused, Caffeinated, Debugging
 
 <div align="center">
 
+<img src="./profile/stats.svg" width="49%"/>
 <img src="https://streak-stats.demolab.com/?user=Utada47&theme=dark&hide_border=true&background=0D1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" width="49%"/>
+
+<img src="./profile/top-langs.svg" width="50%"/>
 
 </div>
 
