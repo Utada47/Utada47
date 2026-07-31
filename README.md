@@ -44,7 +44,7 @@
 
 </div>
 
-### `> system_info.log`
+### `[ 01 ] system_info.log`
 
 ```yaml
 name        : Arya Bintang Kusuma Wijaya (Star)
@@ -63,19 +63,28 @@ access_level: root
 
 </div>
 
-### `> tech_stack --list`
+### `[ 02 ] tech_stack --list`
 
 <div align="center">
+
+**backend & database**
 
 ![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=FF2D20)
 ![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=777BB4)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00ff41)
+
+**frontend**
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)
+
+**infra, tools & security**
+
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00ff41)
 ![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-000000?style=for-the-badge&logo=cisco&logoColor=00ff41)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Cyber Security](https://img.shields.io/badge/Cyber_Security-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff41)
 
 </div>
 
@@ -85,7 +94,29 @@ access_level: root
 
 </div>
 
-### `> stats --realtime`
+### `[ 03 ] ctf_profile --picoctf`
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────┐
+│  root@utada47:~$ nmap -sV target: flags       │
+│  [+] Capturing flags since day one           │
+│  [+] Playground: picoCTF / CyLab Academy     │
+└─────────────────────────────────────────────┘
+```
+
+[![picoCTF](https://img.shields.io/badge/picoCTF-Profile-00ff41?style=for-the-badge&logo=picoctf&logoColor=black&labelColor=000000)](https://learn.cylabacademy.org/users/starlight47)
+
+</div>
+
+<div align="center">
+
+![](https://capsule-render.vercel.app/api?type=rect&color=0:00ff41,100:0d1117&height=3&width=1000)
+
+</div>
+
+### `[ 04 ] stats --realtime`
 
 <div align="center">
 
@@ -102,7 +133,7 @@ access_level: root
 
 </div>
 
-### `> contribution_grid --animate`
+### `[ 05 ] contribution_grid --animate`
 
 <div align="center">
 
@@ -120,7 +151,7 @@ access_level: root
 
 </div>
 
-### `> connect --socials`
+### `[ 06 ] connect --socials`
 
 <div align="center">
 
@@ -141,4 +172,4 @@ process terminated. connection closed.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff41,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=120&section=footer" width="100%"/>
