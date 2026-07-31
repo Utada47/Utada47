@@ -48,7 +48,7 @@
 
 ```yaml
 name        : Arya Bintang Kusuma Wijaya (Star)
-alias       : Utada47
+alias       : Utada47, Star
 role        : Informatics Engineering Student @ Universitas Muslim Indonesia
 job         : Laboratory Assistant
 status      : Building "Asistio" — Lab Practicum Management System (Thesis)
