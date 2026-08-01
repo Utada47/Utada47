@@ -153,7 +153,7 @@ access_level: root
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Utada47/Utada47/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Utada47/Utada47/output/pacman-contribution-graph.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Utada47/Utada47/output/pacman-contribution-graph.svg" />
   <img alt="pacman animation" src="https://raw.githubusercontent.com/Utada47/Utada47/output/pacman-contribution-graph.svg" />
 </picture>
@@ -166,7 +166,21 @@ access_level: root
 
 </div>
 
-### `[ 07 ] connect --socials`
+### `[ 07 ] now_playing --spotify`
+
+<div align="center">
+
+[![Spotify](https://novatorem-xi-lime.vercel.app/api/spotify)](https://open.spotify.com/user/Utada47)
+
+</div>
+
+<div align="center">
+
+![](https://capsule-render.vercel.app/api?type=rect&color=0:00ff41,100:0d1117&height=3&width=1000)
+
+</div>
+
+### `[ 08 ] connect --socials`
 
 <div align="center">
 
