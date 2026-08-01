@@ -170,8 +170,8 @@ access_level: root
 
 <div align="center">
 
-<a href="https://open.spotify.com/user/Utada47">
-  <img src="https://novatorem-xi-lime.vercel.app/api/spotify" alt="Spotify Now Playing" width="100%"/>
+<a href="https://www.last.fm/user/USERNAME_LASTFM">
+  <img src="https://novatorem-xi-lime.vercel.app/api/orchestrator?background_color=0d1117&border_color=00ff41&show_status=true" alt="Now Playing" width="100%"/>
 </a>
 
 </div>
