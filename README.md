@@ -72,6 +72,7 @@ access_level: root
 ![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=FF2D20)
 ![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=777BB4)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00ff41)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00ff41)
 
 **frontend**
 
@@ -147,17 +148,25 @@ access_level: root
 
 </div>
 
+### `[ 06 ] pacman --contribution`
+
 <div align="center">
-    
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Utada47/Utada47/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Utada47/Utada47/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Utada47/Utada47/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Utada47/Utada47/output/github-contribution-grid-pacman-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Utada47/Utada47/output/github-contribution-grid-pacman.svg" />
+  <img alt="pacman animation" src="https://raw.githubusercontent.com/Utada47/Utada47/output/github-contribution-grid-pacman.svg" />
 </picture>
-    
+
 </div>
 
-### `[ 06 ] connect --socials`
+<div align="center">
+
+![](https://capsule-render.vercel.app/api?type=rect&color=0:00ff41,100:0d1117&height=3&width=1000)
+
+</div>
+
+### `[ 07 ] connect --socials`
 
 <div align="center">
 
