@@ -170,7 +170,9 @@ access_level: root
 
 <div align="center">
 
-[![Spotify](https://novatorem-xi-lime.vercel.app/api/spotify)](https://open.spotify.com/user/Utada47)
+<a href="https://open.spotify.com/user/Utada47">
+  <img src="https://novatorem-xi-lime.vercel.app/api/spotify" alt="Spotify Now Playing" width="100%"/>
+</a>
 
 </div>
 
