@@ -153,9 +153,9 @@ access_level: root
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Utada47/Utada47/output/github-contribution-grid-pacman-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Utada47/Utada47/output/github-contribution-grid-pacman.svg" />
-  <img alt="pacman animation" src="https://raw.githubusercontent.com/Utada47/Utada47/output/github-contribution-grid-pacman.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Utada47/Utada47/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Utada47/Utada47/output/github-contribution-grid-snake.svg" />
+  <img alt="pacman animation" src="https://raw.githubusercontent.com/Utada47/Utada47/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
