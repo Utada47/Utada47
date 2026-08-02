@@ -47,9 +47,9 @@
 ### `[ 01 ] system_info.log`
 
 ```yaml
-name        : Arya Bintang Kusuma Wijaya (Star)
+name        : Bintang (Star)
 alias       : Utada47, Star
-role        : Informatics Engineering Student @ Universitas Muslim Indonesia
+role        : Informatics Engineering Student
 job         : Laboratory Assistant
 status      : Building "Asistio" — Lab Practicum Management System (Thesis)
 shell       : /bin/bash
