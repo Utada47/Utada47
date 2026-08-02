@@ -166,21 +166,7 @@ access_level: root
 
 </div>
 
-### `[ 07 ] now_playing --lastfm`
-
-<div align="center">
-
-[![Now Playing](https://novatorem-xi-lime.vercel.app/api/orchestrator?background_color=0d1117&border_color=00ff41&show_status=true)](https://www.last.fm/user/STAR_47)
-
-</div>
-
-<div align="center">
-
-![](https://capsule-render.vercel.app/api?type=rect&color=0:00ff41,100:0d1117&height=3&width=1000)
-
-</div>
-
-### `[ 08 ] connect --socials`
+### `[ 07 ] connect --socials`
 
 <div align="center">
 
