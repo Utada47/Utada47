@@ -153,9 +153,9 @@ access_level: root
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Utada47/Utada47/output/pacman-contribution-graph.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Utada47/Utada47/output/pacman-contribution-graph.svg" />
-  <img alt="pacman animation" src="https://raw.githubusercontent.com/Utada47/Utada47/output/pacman-contribution-graph.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Utada47/Utada47/output/github-contribution-grid-pacman-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Utada47/Utada47/output/github-contribution-grid-pacman.svg" />
+  <img alt="pacman animation" src="https://raw.githubusercontent.com/Utada47/Utada47/output/github-contribution-grid-pacman-dark.svg" />
 </picture>
 
 </div>
@@ -166,13 +166,11 @@ access_level: root
 
 </div>
 
-### `[ 07 ] now_playing --spotify`
+### `[ 07 ] now_playing --lastfm`
 
 <div align="center">
 
-<a href="https://www.last.fm/user/STAR_47">
-  <img src="https://novatorem-xi-lime.vercel.app/api/orchestrator?background_color=0d1117&border_color=00ff41&show_status=true" alt="Now Playing" width="100%"/>
-</a>
+[![Now Playing](https://novatorem-xi-lime.vercel.app/api/orchestrator?background_color=0d1117&border_color=00ff41&show_status=true)](https://www.last.fm/user/STAR_47)
 
 </div>
 
