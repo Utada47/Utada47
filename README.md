@@ -180,7 +180,7 @@ access_level: root
 
 ```
 root@utada47:~$ echo "Thanks for visiting. Keep building." 
-Thanks for visiting. Keep building.
+Thanks for visiting. Keep building. Stay curious
 root@utada47:~$ exit
 process terminated. connection closed.
 ```
