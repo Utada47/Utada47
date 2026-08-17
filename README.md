@@ -21,7 +21,7 @@
 
 ```
 ┌────────────────────────────────────────────────────────┐
-│  root@utada47:~$ ./init_profile.sh                     │
+│  root@star:~$ ./init_profile.sh                        │
 │  [OK] Decrypting identity.......... done               │
 │  [OK] Mounting skillset............ done               │
 │  [OK] Loading modules.............. done               │
