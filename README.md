@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:00ff41&height=200&section=header&text=STAR&fontSize=50&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=Arya%20Bintang%20Kusuma%20Wijaya%20%7C%20building%20cool%20things&descAlignY=60&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:00ff41&height=200&section=header&text=STAR&fontSize=50&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=Arya%20Bintang%20Kusuma%20Wijaya%20%7C%20vibe%20coder&descAlignY=60&descSize=16" width="100%"/>
 
 </div>
 
