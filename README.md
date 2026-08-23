@@ -51,7 +51,7 @@ name        : Bintang (Star)
 alias       : Utada47, Star
 role        : Informatics Engineering Student
 job         : Laboratory Assistant
-status      : Building "Asistio" — Lab Practicum Management System (Thesis)
+status      : Building "Asistio" — Lab Practicum Management System
 shell       : /bin/bash
 uptime      : caffeinated, debugging, compiling the future
 access_level: root 
