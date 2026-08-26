@@ -179,7 +179,7 @@ access_level: root
 <div align="center">
 
 ```
-root@utada47:~$ echo "Thanks for visiting. Keep building." 
+root@utada47:~$ echo "Thanks for visiting. Keep building. Stay curious" 
 Thanks for visiting. Keep building. Stay curious
 root@utada47:~$ exit
 process terminated. connection closed.
