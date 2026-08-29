@@ -54,7 +54,7 @@ job         : Laboratory Assistant
 status      : Building "Asistio" — Lab Practicum Management System
 shell       : /bin/bash
 uptime      : caffeinated, debugging, compiling the future
-access_level: root     
+access_level: root      
 ```
 
 <div align="center">
